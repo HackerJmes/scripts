@@ -3,6 +3,9 @@ README
 ## Script Disclaimer
 Please use this script with caution and understand the risks involved. 
 
+## SCRIPT;
+loadstring(game:HttpGet("https://https://raw.githubusercontent.com/HackerJmes/scripts/main/JmesPSX", true))() 
+
 ### Keyless Script
 This script is designed to operate without the need for any keys or credentials. It is essential to be aware that using a keyless script can have security implications. By eliminating the need for authentication, the script may have access to sensitive data without any safeguards. 
 
